@@ -4,11 +4,11 @@ function createPosts() {
         posts,
         length: posts.length
     }
-    for (let i = 0; 1 <= 5; i++)
+}
 
-    }
-
-
+for (let i = 0; 1 <= 5; i++)
 
 
-module.exports = createPosts
+
+
+    module.exports = createPosts
