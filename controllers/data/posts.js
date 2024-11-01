@@ -19,7 +19,7 @@ const posts = [
     },
     {
         title: "harry potter in volo con la bacchetta magica",
-        content: "Contenuto del quarto post",
+        content: "harry alle prese con gli allenamenti",
         image: "public/Harry-Potter.webp",
         tags: ["avventura", "libertà"]
     },
